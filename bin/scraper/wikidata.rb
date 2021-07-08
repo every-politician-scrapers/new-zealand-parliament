@@ -25,6 +25,9 @@ class Member < Scraped::JSON
   PARTY_MAP = {
     'ACT New Zealand' => 'ACT Party',
     'Green Party of Aotearoa New Zealand' => 'Green Party',
+    'New Zealand National Party' => 'National Party',
+    'New Zealand Labour Party' => 'Labour Party',
+    'Maori Party' => 'Te Paati Māori',
   }
 
   field :party do
@@ -32,7 +35,7 @@ class Member < Scraped::JSON
   end
 
   field :electorate do
-    json.dig(:areaLabel, :value).sub('List MP', 'List')
+    json.dig(:areaLabel, :value).sub('List MP', 'List').sub('Mount ', 'Mt ')
   end
 
   private

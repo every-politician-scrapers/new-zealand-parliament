@@ -14,7 +14,7 @@ class Legislature
     end
 
     field :name do
-      noko.css('noscript img/@alt').text
+      td[1].css('a').text.split(',').map(&:tidy).reverse.join(' ')
     end
 
     field :party do

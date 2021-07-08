@@ -1,6 +1,6 @@
 id,name,party,electorate
-allan-kiritapu,Kiritapu Allen,Labour Party,East Coast
-andersen-ginny,Virginia Andersen,Labour Party,Hutt South
+allan-kiritapu,Kiritapu Allan,Labour Party,East Coast
+andersen-ginny,Ginny Andersen,Labour Party,Hutt South
 ardern-jacinda,Jacinda Ardern,Labour Party,Mt Albert
 baillie-chris,Chris Baillie,ACT Party,List
 bayly-andrew,Andrew Bayly,National Party,Port Waikato
@@ -34,8 +34,8 @@ goldsmith-paul,Paul Goldsmith,National Party,List
 grigg-nicola,Nicola Grigg,National Party,Selwyn
 halbert-shanan,Shanan Halbert,Labour Party,Northcote
 henare-peeni,Peeni Henare,Labour Party,Tāmaki Makaurau
-henderson-emily,"Henderson, Emily",Labour Party,Whangārei
-hipango-harete,"Hipango, Harete",National Party,List
+henderson-emily,Emily Henderson,Labour Party,Whangārei
+hipango-harete,Harete Hipango,National Party,List
 hipkins-chris,Chris Hipkins,Labour Party,Remutaka
 jackson-willie,Willie Jackson,Labour Party,List
 kanongataa-suisuiki-anahila,Anahila Kanongata'a-Suisuiki,Labour Party,List
@@ -49,7 +49,7 @@ little-andrew,Andrew Little,Labour Party,List
 logie-jan,Jan Logie,Green Party,List
 lorck-anna,Anna Lorck,Labour Party,Tukituki
 lubeck-marja,Marja Lubeck,Labour Party,List
-luxon-christopher,Chris Luxon,National Party,Botany
+luxon-christopher,Christopher Luxon,National Party,Botany
 luxton-jo,Jo Luxton,Labour Party,Rangitata
 mahuta-nanaia,Nanaia Mahuta,Labour Party,Hauraki-Waikato
 mallard-trevor,Trevor Mallard,Labour Party,List
@@ -69,13 +69,13 @@ ngobi-terisa,Terisa Ngobi,Labour Party,Ōtaki
 oconnor-damien,Damien O'Connor,Labour Party,West Coast-Tasman
 oconnor-greg,Greg O'Connor,Labour Party,Ōhāriu
 oconnor-simon,Simon O'Connor,National Party,Tāmaki
-omer-ibrahim,"Ibrahim, Omer",Labour Party,List
+omer-ibrahim,Ibrahim Omer,Labour Party,List
 pallett-sarah,Sarah Pallett,Labour Party,Ilam
 parker-david,David Parker,Labour Party,List
 penk-chris,Chris Penk,National Party,Kaipara ki Mahurangi
 prime-willow-jean,Willow-Jean Prime,Labour Party,Northland
 pugh-maureen,Maureen Pugh,National Party,List
-radhakrishnan-priyanca,"Radhakrishnan, Priyanca",Labour Party,Maungakiekie
+radhakrishnan-priyanca,Priyanca Radhakrishnan,Labour Party,Maungakiekie
 reti-shane,Shane Reti,National Party,List
 roberts-angela,Angela Roberts,Labour Party,List
 robertson-grant,Grant Robertson,Labour Party,Wellington Central
@@ -95,7 +95,7 @@ smith-damien,Damien Smith,ACT Party,List
 smith-stuart,Stuart Smith,National Party,Kaikōura
 stanford-erica,Erica Stanford,National Party,East Coast Bays
 strange-jamie,Jamie Strange,Labour Party,Hamilton East
-swarbrick-chloe,Chloe Swarbrick,Green Party,Auckland Central
+swarbrick-chloe,Chlöe Swarbrick,Green Party,Auckland Central
 tinetti-jan,Jan Tinetti,Labour Party,List
 tirikatene-rino,Rino Tirikatene,Labour Party,Te Tai Tonga
 tuiono-teanau,Teanau Tuiono,Green Party,List
@@ -108,7 +108,7 @@ verrall-ayesha,Ayesha Verrall,Labour Party,List
 waititi-rawiri,Rawiri Waititi,Te Paati Māori,Waiariki
 wall-louisa,Louisa Wall,Labour Party,List
 walters-vanushi,Vanushi Walters,Labour Party,Upper Harbour
-warren-clark-angie,Angie Warren Clark,Labour Party,List
+warren-clark-angie,Angie Warren-Clark,Labour Party,List
 watts-simon,Simon Watts,National Party,North Shore
 webb-duncan,Duncan Webb,Labour Party,Christchurch Central
 whaitiri-meka,Meka Whaitiri,Labour Party,Ikaroa-Rāwhiti

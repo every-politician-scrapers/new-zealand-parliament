@@ -11,7 +11,6 @@ Nanaia Mahuta,Q3798833,Labour,Q1048192,Hauraki-Waikato,Q5682782
 Poto Williams,Q17016818,Labour,Q1048192,Christchurch East,Q5109073
 Damien O'Connor,Q5212493,Labour,Q1048192,West Coast-Tasman,Q7984755
 Stuart Nash,Q7626890,Labour,Q1048192,Napier,Q16954969
-Kris Faafoi,Q6437165,Labour,Q1048192,Mana,Q6746510
 Peeni Henare,Q18098260,Labour,Q1048192,Tāmaki Makaurau,Q2465243
 Willie Jackson,Q8021596,Labour,Q1048192,List,Q3798091
 Jan Tinetti,Q41498735,Labour,Q1048192,List,Q3798091
@@ -19,18 +18,17 @@ Michael Wood,Q27950864,Labour,Q1048192,Mount Roskill,Q6923295
 Kiri Allan,Q41498745,Labour,Q1048192,East Coast,Q5328100
 David Clark,Q3561074,Labour,Q1048192,Dunedin,Q96376733
 Ayesha Verrall,Q91250224,Labour,Q1048192,List,Q3798091
+Priyanca Radhakrishnan,Q41498722,Labour,Q1048192,Maungakiekie,Q6792557
 William Sio,Q16208070,Labour,Q1048192,Mangere,Q6950610
 Meka Whaitiri,Q13566358,Labour,Q1048192,Ikaroa-Rawhiti,Q5995391
 Phil Twyford,Q7182502,Labour,Q1048192,Te Atatū,Q7690783
-Priyanca Radhakrishnan,Q41498722,Labour,Q1048192,Maungakiekie,Q6792557
+Kieran McAnulty,Q41498761,Labour,Q1048192,Wairarapa,Q7960306
 Rino Tirikatene,Q3527980,Labour,Q1048192,Te Tai Tonga,Q7690987
 Deborah Russell,Q41498732,Labour,Q1048192,New Lynn,Q7009958
 Trevor Mallard,Q7839303,Labour,Q1048192,List,Q3798091
 Adrian Rurawhe,Q18167636,Labour,Q1048192,Te Tai Hauauru,Q1725044
 Jenny Salesa,Q18167638,Labour,Q1048192,Panmure-Ōtāhuhu,Q92051279
 Vanushi Walters,Q99746055,Labour,Q1048192,Upper Harbour,Q17067595
-Kieran McAnulty,Q41498761,Labour,Q1048192,Wairarapa,Q7960306
-Louisa Wall,Q6688567,Labour,Q1048192,List,Q3798091
 Camilla Belich,Q99746504,Labour,Q1048192,List,Q3798091
 Marja Lubeck,Q41498755,Labour,Q1048192,List,Q3798091
 Angie Warren-Clark,Q42291428,Labour,Q1048192,List,Q3798091
@@ -61,9 +59,12 @@ Gaurav Sharma,Q99746553,Labour,Q1048192,Hamilton West,Q17050921
 Emily Henderson,Q99746517,Labour,Q1048192,Whangārei,Q7990620
 Terisa Ngobi,Q99746518,Labour,Q1048192,Ōtaki,Q8081748
 Glen Bennett,Q99746558,Labour,Q1048192,New Plymouth,Q7010994
+Lemauga Lydia Sosene,Q99746510,Labour,Q1048192,List,Q3798091
 Greg O'Connor,Q28600237,Labour,Q1048192,Ohariu,Q8081484
 Tangi Utikere,Q58813130,Labour,Q1048192,Palmerston North,Q7128320
 Anna Lorck,Q99746526,Labour,Q1048192,Tukituki,Q7851846
+Kris Faafoi,Q6437165,Labour,Q1048192,List,Q3798091
+Louisa Wall,Q6688567,Labour,Q1048192,List,Q3798091
 Marama Davidson,Q20983272,Green Party of Aotearoa New Zealand,Q1327761,List,Q3798091
 James Shaw,Q18167139,Green Party of Aotearoa New Zealand,Q1327761,List,Q3798091
 Chlöe Swarbrick,Q28137192,Green Party of Aotearoa New Zealand,Q1327761,Auckland Central,Q4819499
@@ -76,16 +77,15 @@ Elizabeth Kerekere,Q61782487,Green Party of Aotearoa New Zealand,Q1327761,List,Q
 Ricardo Menéndez March,Q99767964,Green Party of Aotearoa New Zealand,Q1327761,List,Q3798091
 Christopher Luxon,Q74370310,National,Q204716,Botany,Q4948500
 Nicola Willis,Q41424038,National,Q204716,List,Q3798091
-Simon Bridges,Q6336063,National,Q204716,Tauranga,Q16934070
 Chris Bishop,Q18097593,National,Q204716,List,Q3798091
 Shane Reti,Q18167135,National,Q204716,List,Q3798091
+Paul Goldsmith,Q7150935,National,Q204716,List,Q3798091
 Louise Upston,Q6688985,National,Q204716,Taupō,Q7688833
 Erica Stanford,Q41672229,National,Q204716,East Coast Bays,Q5328103
 Matt Doocey,Q18098080,National,Q204716,Waimakariri,Q7960087
 Simeon Brown,Q41672277,National,Q204716,Pakuranga,Q7126081
 Barbara Kuriger,Q18098422,National,Q204716,Taranaki-King Country,Q7685388
 Scott Simpson,Q7437262,National,Q204716,Coromandel,Q5172096
-Paul Goldsmith,Q7150935,National,Q204716,List,Q3798091
 Melissa Lee,Q6812766,National,Q204716,List,Q3798091
 Mark Mitchell,Q6768911,National,Q204716,Whangaparāoa,Q92051182
 Andrew Bayly,Q18097523,National,Q204716,Port Waikato,Q7231017
@@ -108,6 +108,7 @@ Joseph Mooney,Q99835329,National,Q204716,Southland,Q92051328
 Penny Simmonds,Q99835330,National,Q204716,Invercargill,Q6060017
 Simon Watts,Q99835332,National,Q204716,North Shore,Q7056657
 Nick Smith,Q976339,National,Q204716,List,Q3798091
+Simon Bridges,Q6336063,National,Q204716,Tauranga,Q16934070
 David Seymour,Q17055796,ACT New Zealand,Q288838,Epsom,Q5383983
 Brooke van Velden,Q99771411,ACT New Zealand,Q288838,List,Q3798091
 Nicole McKee,Q99771412,ACT New Zealand,Q288838,List,Q3798091

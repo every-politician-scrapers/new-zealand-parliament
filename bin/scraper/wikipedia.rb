@@ -40,7 +40,7 @@ class MemberRow < Scraped::HTML
   }.freeze
 
   def member?
-    !td[4].text.to_i.zero?
+    !td[-2].text.to_i.zero? rescue binding.pry
   end
 
   field :name do
@@ -62,13 +62,13 @@ class MemberRow < Scraped::HTML
   field :constituency do
     return 'List' if td[3].css('a').empty?
 
-    td[3].css('a').text.tidy
+    td[-3].css('a').text.tidy
   end
 
   field :constituency_wikidata do
     return 'Q3798091' if constituency == 'List'
 
-    td[3].css('a/@wikidata').text
+    td[-3].css('a/@wikidata').text
   end
 
   private
@@ -78,7 +78,7 @@ class MemberRow < Scraped::HTML
   end
 
   def name_link
-    td[2].css('a').first
+    td[-4].css('a').first
   end
 end
 

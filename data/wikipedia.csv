@@ -19,21 +19,22 @@ Kiri Allan,Q41498745,Labour,Q1048192,East Coast,Q5328100
 David Clark,Q3561074,Labour,Q1048192,Dunedin,Q96376733
 Ayesha Verrall,Q91250224,Labour,Q1048192,List,Q3798091
 Priyanca Radhakrishnan,Q41498722,Labour,Q1048192,Maungakiekie,Q6792557
-William Sio,Q16208070,Labour,Q1048192,Mangere,Q6950610
+William Sio,Q16208070,Labour,Q1048192,Māngere,Q6950610
 Meka Whaitiri,Q13566358,Labour,Q1048192,Ikaroa-Rawhiti,Q5995391
 Phil Twyford,Q7182502,Labour,Q1048192,Te Atatū,Q7690783
 Kieran McAnulty,Q41498761,Labour,Q1048192,Wairarapa,Q7960306
 Rino Tirikatene,Q3527980,Labour,Q1048192,Te Tai Tonga,Q7690987
 Deborah Russell,Q41498732,Labour,Q1048192,New Lynn,Q7009958
-Trevor Mallard,Q7839303,Labour,Q1048192,List,Q3798091
 Adrian Rurawhe,Q18167636,Labour,Q1048192,Te Tai Hauauru,Q1725044
+Greg O'Connor,Q28600237,Labour,Q1048192,Ohariu,Q8081484
 Jenny Salesa,Q18167638,Labour,Q1048192,Panmure-Ōtāhuhu,Q92051279
+Trevor Mallard,Q7839303,Labour,Q1048192,List,Q3798091
 Vanushi Walters,Q99746055,Labour,Q1048192,Upper Harbour,Q17067595
 Camilla Belich,Q99746504,Labour,Q1048192,List,Q3798091
 Marja Lubeck,Q41498755,Labour,Q1048192,List,Q3798091
 Angie Warren-Clark,Q42291428,Labour,Q1048192,List,Q3798091
 Willow-Jean Prime,Q41498738,Labour,Q1048192,Northland,Q7059501
-Tamati Coffey,Q7680951,Labour,Q1048192,List,Q3798091
+Tāmati Coffey,Q7680951,Labour,Q1048192,List,Q3798091
 Naisi Chen,Q99746505,Labour,Q1048192,List,Q3798091
 Jo Luxton,Q41498748,Labour,Q1048192,Rangitata,Q7292856
 Jamie Strange,Q41498758,Labour,Q1048192,Hamilton East,Q5644917
@@ -55,13 +56,11 @@ Rachel Boyack,Q99746512,Labour,Q1048192,Nelson,Q6990332
 Arena Williams,Q94001454,Labour,Q1048192,Manurewa,Q6753178
 Ingrid Leary,Q99746513,Labour,Q1048192,Taieri,Q7675929
 Sarah Pallett,Q99746516,Labour,Q1048192,Ilam,Q5996966
-Gaurav Sharma,Q99746553,Labour,Q1048192,Hamilton West,Q17050921
 Emily Henderson,Q99746517,Labour,Q1048192,Whangārei,Q7990620
 Terisa Ngobi,Q99746518,Labour,Q1048192,Ōtaki,Q8081748
 Glen Bennett,Q99746558,Labour,Q1048192,New Plymouth,Q7010994
 Lemauga Lydia Sosene,Q99746510,Labour,Q1048192,List,Q3798091
 Dan Rosewarne,Q112659476,Labour,Q1048192,List,Q3798091
-Greg O'Connor,Q28600237,Labour,Q1048192,Ohariu,Q8081484
 Tangi Utikere,Q58813130,Labour,Q1048192,Palmerston North,Q7128320
 Anna Lorck,Q99746526,Labour,Q1048192,Tukituki,Q7851846
 Louisa Wall,Q6688567,Labour,Q1048192,List,Q3798091
@@ -123,3 +122,4 @@ Toni Severin,Q99771422,ACT New Zealand,Q288838,List,Q3798091
 Damien Smith,Q104804167,ACT New Zealand,Q288838,List,Q3798091
 Debbie Ngarewa-Packer,Q92131852,Māori Party,Q1375170,List,Q3798091
 Rawiri Waititi,Q99872114,Māori Party,Q1375170,Waiariki,Q7959905
+Gaurav Sharma,Q99746553,Independent,,List,Q3798091
